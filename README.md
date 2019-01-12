@@ -2,10 +2,10 @@
 Created in response to a challenge presented by Growing Gardens at the We Code Hackathon.
 
 # Challenge
-Redefining garden supply donation redistribution to eliminate the extra steps required to deliver goods to the gardeners in need. The goal is to connect community members of Growing Gardens directly to other members in their community to share garden supplies. These supplies may include seeds, plants, tools, fertilizer, which will be shared with families, schools, and business.
+Create a digital experience that will redefine garden supply donation redistribution to eliminate the extra steps currently required to deliver goods to the gardeners in need. The goal is to connect community members of Growing Gardens directly to other members in their community to share garden supplies. These supplies may include seeds, plants, tools, fertilizer, which will be shared with families, schools, and business.
 
 # Our Solution
-Create an accessible mobile application that will allow gardeners to connect directly with others in their geographical area to give or receive supplies. 
+To create an accessible mobile application that will allow gardeners to connect directly with others in their geographical area to give or receive supplies. 
 
 # Run
 ```
