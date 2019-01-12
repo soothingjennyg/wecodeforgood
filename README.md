@@ -1,4 +1,4 @@
-# We Code for Good
+# Growing Gardens Together
 Created in response to a challenge presented by Growing Gardens at the We Code Hackathon.
 
 # Challenge
