@@ -1,6 +1,4 @@
-# We Code for Good
-
-![Logo](https://files.slack.com/files-pri/TDV5LN9D3-FFC91KGHH/logo_idea.png)
+# Growing Gardens Together
 
 Created in response to a challenge presented by Growing Gardens at the We Code Hackathon.
 
