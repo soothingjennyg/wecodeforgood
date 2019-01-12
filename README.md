@@ -8,16 +8,13 @@ Create a digital experience that will redefine garden supply donation redistribu
 # Our Solution
 To create an accessible mobile application that will allow gardeners to connect directly with others in their geographical area to give or receive supplies. 
 
+# Target Audience
+Members of the Growing Gardens nonprofit, particularly families. 
+
 # Run
 ```
 Instructions to run anything we have working.
 ```
-
-# Features
-
-# Challenges We Faced
-
-# Accomplishments We're Proud Of 
 
 # Roadmap 
 If we had more time, we would have implemented... 
